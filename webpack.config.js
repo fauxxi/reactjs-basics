@@ -18,7 +18,7 @@ var config = {
         exclude: /node_modules/,
         loader: "babel-loader",
         query: {
-          presets: ["react", "es2015", "stage-2"]
+          presets: ["react", "es2016", "stage-2"]
         }
       }
     ]
